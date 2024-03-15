@@ -75,3 +75,26 @@ For the backend, make sure you have Python installed.
 
 Contributions are welcome! Please feel free to open a pull request or submit an issue if you encounter any problems.
 
+## Frontend Dependencies:
+   
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "framer-motion": "^11.0.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^2.1.4"
+
+## Backend Dependencies: 
+"pyenv  pythn 3.8.10",
+"fastApi",
+"tensorflow",
+
+  
+
