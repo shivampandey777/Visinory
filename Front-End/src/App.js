@@ -17,7 +17,7 @@ import NewGrid from './pages/NewGrid';
 import Crop from './pages/Crop';
 import Soil from './pages/Soil';
 import ModernTech from './pages/ModernTech';
-// import NotFound from './pages/NotFound';
+import NotFound from './pages/NotFound';
 
 function App() {
   
@@ -32,7 +32,7 @@ const router = createBrowserRouter(createRoutesFromElements(
        <Route path="news" element={<NewGrid />} />
        <Route path="login" element={<Login />} />
        <Route path="blog" element={<News />} />
-       {/* <Route path="*" element={<NotFound />} /> */}
+       <Route path="*" element={<NotFound />} />
        
   </Route>
 ));
